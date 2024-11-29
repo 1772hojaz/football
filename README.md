@@ -24,7 +24,7 @@ This app show standings of Football Leagues, fetching real-time data from https:
 ---
 2. Navigate to the progect
 
-    '''
+    ```
     cd football
 
     
@@ -32,7 +32,7 @@ This app show standings of Football Leagues, fetching real-time data from https:
 
 3. Install dependancies
    
-    '''
+    ```
     flutter pub get
 
 
@@ -40,5 +40,5 @@ This app show standings of Football Leagues, fetching real-time data from https:
 
 4. Run app
    
-    '''
+    ```
     flutter run
